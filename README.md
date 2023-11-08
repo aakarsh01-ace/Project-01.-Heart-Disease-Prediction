@@ -1,5 +1,5 @@
 # Project-01.-Heart-Disease-Prediction
-**1. Overview**
+# **1. Overview**
 
 This project focuses on the development of a predictive model for heart disease. The model aims to utilize machine learning techniques to predict the likelihood of an individual having heart disease based on various health-related factors and medical attributes.
 
